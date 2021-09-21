@@ -1,0 +1,9 @@
+{
+    "project": "CryptoEggHeads",
+    "tags":[
+        "CryptoEggHeads"
+    ],
+    "policies": [
+        "policy1",
+    ]
+}
